@@ -1,5 +1,5 @@
 {
-  "name": "drizzle-react",
+  "name": "drizzle-react-enhanced",
   "version": "2.0.0",
   "description": "Put some Drizzle on your React components.",
   "main": "dist/drizzle-react.js",
